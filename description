@@ -1,0 +1,5 @@
+This project is going to create a currency converter.
+Target:
+1. A user interface shows the currency.
+2. get every currency by using golang or other methods.
+3. create a switch or a selected chart to let users select what they are interested.
